@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeganth-1
 - 👀 I’m interested in java
-- 🌱 I’m currently learning reac,java
+- 🌱 I’m currently learning react,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
